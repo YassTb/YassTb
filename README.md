@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designer
 - 🌱 I’m currently learning programmation
 - 💞️ I’m looking to collaborate on website design
-- 📫 How to reach me tyass
+- 📫 How to reach me yasstb37@gmail.com
 
 <!---
 YassTb/YassTb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
